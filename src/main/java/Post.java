@@ -7,11 +7,6 @@ public class Post {
     public String subscription;
     public FormDate birthday;
 
-    public static class FormDate {
-        public int day;
-        public int month;
-        public int year;
 
-    }
 
 }
